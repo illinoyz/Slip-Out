@@ -6,4 +6,4 @@ Developers:
     Artist - hateshinai(Elena Nosova)
     Sound Producer - ez.wxy (Alexey Tsepkov, Nikita Genaev)
     Scenarist -  (Nikolay Nikolaenko)
-    Tester and Manager -  (Ilya Mavrin)
+    Tester and Manager - illinoyz(Ilya Mavrin)
