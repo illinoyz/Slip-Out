@@ -5,5 +5,5 @@ Developers:
     Programmer - TitaniumHocker(Ivan Fedorov)
     Artist - hateshinai(Elena Nosova)
     Sound Producer - ez.wxy (Alexey Tsepkov, Nikita Genaev)
-    Scenarist -  (Nikolay Nikolaenko)
+    Scenarist -  nn(Nikolay Nikolaenko)
     Tester and Manager - illinoyz(Ilya Mavrin)
