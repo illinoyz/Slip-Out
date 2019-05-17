@@ -9,4 +9,4 @@ Developers:
 - Artist - hateshinai(Elena Nosova)
 - Sound Producer - ez.wxy (Alexey Tsepkov, Nikita Genaev)
 - Scenarist -  nn(Nikolay Nikolaenko)
-- Tester and Manager - illinoyz(Ilya Mavrin)
+- Tester - illinoyz(Ilya Mavrin)

@@ -4,9 +4,6 @@ import pygame
 import sys
 
 
-def main():
-    pass
-
-
-if __name__ == '__main__':
-    main()
+class Person():
+    def __init__(self):
+        pass
