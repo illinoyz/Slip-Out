@@ -1,12 +1,12 @@
 # Slip-Out
 
-Colledge project KS54 goup 2ISP11-2
+Simple demo made by students of Colledge of Comminucations №54, group 2ИСП11-2
 
-# Description
+## Description
 
 there must be sescription
 
-# Features
+## Features
 
  -
  -
@@ -14,7 +14,7 @@ there must be sescription
  -
  -
 
-# [name of the team]
+### [name of the team]
 
 Developers:
 - Programmer - TitaniumHocker(Ivan Fedorov)
