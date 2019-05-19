@@ -1,17 +1,22 @@
 # -*- coding:utf-8 -*-
 
+import random
+from datetime import datetime, timedelta
+import os
+import time
 import pygame
-import sys
-from collections import defaultdict
+from pygame.rect import Rect
+import config as c
 from game import Game
 from mainMenu import MainMenu
 from settings import Settings
 from person import Person
+from background import Background
 
 
 class SlipOut(Game):
     def __init__(self):
-        pass
+        Game.__init__(self, 'Slip Out', 1280, 720, 30)
 
 
 def main():
