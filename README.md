@@ -22,3 +22,6 @@ Developers:
 - Sound Producer - ez.wxy (Alexey Tsepkov, Nikita Genaev)
 - Scenarist -  nn(Nikolay Nikolaenko)
 - Tester - illinoyz(Ilya Mavrin)
+
+#### Links:
+ - [titaniumhocker.ru](http://titaniumhocker.ru/)
