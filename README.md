@@ -1,6 +1,6 @@
 # Slip Out
 
-Simple demo made by students of Colledge of Comminucations №54, group 2ИСП11-2
+Simple demo made by students of Colledge of Communications №54, group 2ИСП11-2
 
 ### Description
 
@@ -27,3 +27,5 @@ Developers:
  - [titaniumhocker.ru](http://titaniumhocker.ru/)
  - [ez.wxy](https://vk.com/ezwxy)
  - [hateshinai](https://www.instagram.com/hateshinaiart/)
+ - [illinoyz](https://vk.com/illinoyz)
+ - [nn](https://vk.com/id320112510)
