@@ -1,12 +1,12 @@
-# Slip-Out
+# Slip Out
 
 Simple demo made by students of Colledge of Comminucations №54, group 2ИСП11-2
 
-## Description
+### Description
 
-there must be sescription
+there must be description
 
-## Features
+### Features
 
  -
  -
@@ -25,3 +25,5 @@ Developers:
 
 #### Links:
  - [titaniumhocker.ru](http://titaniumhocker.ru/)
+ - [ez.wxy](https://vk.com/ezwxy)
+ - [hateshinai](https://www.instagram.com/hateshinaiart/)
